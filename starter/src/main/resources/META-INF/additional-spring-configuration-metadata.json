@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "name": "auto-starter.pro1",
+      "type": "java.lang.String",
+      "description": "自定义properties参数描述",
+      "defaultValue": "默认值1"
+    },
+    {
+      "name": "auto-starter.pro2",
+      "type": "java.lang.String",
+      "description": "自定义properties参数描述",
+      "defaultValue": "默认值2"
+    }
+  ]
+}

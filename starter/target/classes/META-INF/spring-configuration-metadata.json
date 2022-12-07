@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "auto-starter",
+      "type": "com.tawe.dcs.starter.base.config.AutoStarterProperties",
+      "sourceType": "com.tawe.dcs.starter.base.config.AutoStarterProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "auto-starter.pro1",
+      "type": "java.lang.String",
+      "description": "自定义properties参数描述",
+      "sourceType": "com.tawe.dcs.starter.base.config.AutoStarterProperties",
+      "defaultValue": "默认值1"
+    },
+    {
+      "name": "auto-starter.pro2",
+      "type": "java.lang.String",
+      "description": "自定义properties参数描述",
+      "sourceType": "com.tawe.dcs.starter.base.config.AutoStarterProperties",
+      "defaultValue": "默认值2"
+    }
+  ],
+  "hints": []
+}

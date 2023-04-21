@@ -4,6 +4,7 @@
 
 # Log file
 *.log
+log/
 
 # BlueJ files
 *.ctxt
@@ -30,6 +31,7 @@ hs_err_pid*
 *.iml
 *.ipr
 *.iws
+.idea/
 
 # CMake
 cmake-build-*/
@@ -48,3 +50,28 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# Gradle
+build
+.gradle
+
+# out
+**/out/
+
+# Mac
+.DS_Store
+
+# others
+*.tar
+*.pid
+*.orig
+temp/

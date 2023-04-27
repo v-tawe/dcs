@@ -9,13 +9,12 @@
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>dcs-sdk-core</artifactId>
+    <artifactId>dcs-sdk-modbus-tcp-slave</artifactId>
 
     <dependencies>
         <dependency>
-            <groupId>io.netty</groupId>
-            <artifactId>netty-all</artifactId>
+            <groupId>com.tawe</groupId>
+            <artifactId>dcs-sdk-modbus</artifactId>
         </dependency>
     </dependencies>
-
 </project>

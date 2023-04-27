@@ -1,2 +1,2 @@
-# dcs
+# DCS
 Device Control System
